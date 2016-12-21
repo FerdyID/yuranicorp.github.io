@@ -1,1 +1,1 @@
-We're working to fix crash when sending email
+Latest version is out! V1.0.1.0 Please update your software.
