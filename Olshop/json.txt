@@ -1,9 +1,5 @@
 searchMobile(
 {
-    status: {
-        message: "Hello"
-    }
-    
     data: [
     {
          "id": 1,
