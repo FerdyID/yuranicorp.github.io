@@ -1,1 +1,1 @@
-localhost|3306|yurani|root||
+128.199.165.82|3306|jenkinsh_yurani|jenkinsh_root|62569621144|
